@@ -1,5 +1,5 @@
 [flatpak-selinux-fix]
-spec = "flatpak-selinux-fix.spec"
+spec = "pkg-flatpak-selinux-fix.spec"
 build_script = ""
 build_method = "mock"
 owner = "cappy"
